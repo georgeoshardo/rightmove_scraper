@@ -7,3 +7,6 @@ Requirements:
 * `selenium`
 * `joblib`
 * [ChromeDriver for Selenium](https://tecadmin.net/setup-selenium-chromedriver-on-ubuntu/)
+
+Examples:
+* [See the examples notebook](examples.ipynb)
