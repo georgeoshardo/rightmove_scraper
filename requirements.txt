@@ -1,0 +1,4 @@
+pandas
+beautifulsoup4
+selenium
+joblib
